@@ -1,5 +1,11 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <Header />
+    <NuxtPage />
+    <Footer />
   </div>
 </template>
+
+<script setup>
+
+</script>

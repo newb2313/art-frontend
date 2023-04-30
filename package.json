@@ -16,5 +16,8 @@
     "nuxt-vite": "^0.3.5",
     "sass": "^1.62.1",
     "sass-loader": "^13.2.2"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0"
   }
 }
